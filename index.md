@@ -4,7 +4,7 @@
 
 ### Featured Projects
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
 - Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
@@ -14,7 +14,7 @@
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
 ---
-[Retail Analytics (Power BI, Python)](https://elvisliang.notion.site/Retail-Business-Analysis-546c19a059ee415a903fdf4e5b140791)
+[Retail Analytics (Power BI, Python)](https://app.powerbi.com/view?r=eyJrIjoiMWNjN2QwOWEtZDIzNy00NWU1LWE1ZGItODg2MTAyZTkwNWFkIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9)
 - The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
 - Sales from online channels have shown a significant increase over the past year, with a 15% growth rate and a total of $5.8 million in revenue generated through this channel.
 - The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
